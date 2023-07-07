@@ -7,3 +7,4 @@ Home:
 Relation:
 - https://app.gohighlevel.com/ He has this link in his presentation, titled "ChatGPT custom".
 - [Uppex](https://uppex.com/) He mentions them briefly, it's a Trading software
+- [Marketing SaaS - GoHighLevel](https://www.gohighlevel.com/)
